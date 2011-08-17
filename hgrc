@@ -1,6 +1,6 @@
 [ui]
 ssh = ssh -C
-username = nanounanue <nanounanue@gmail.com>
+username = eunanue <edut83@gmail.com>
 
 [web]
 cacerts = /etc/ssl/certs/ca-certificates.crt
